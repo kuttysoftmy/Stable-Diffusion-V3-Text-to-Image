@@ -1,0 +1,1 @@
+--request POST 'https://stablediffusionapi.com/api/v3/text2img' \
