@@ -1,7 +1,4 @@
 version = 1
 
 [[analyzers]]
-name = "PHP"
-
-  [analyzers.meta]
-  runtime_version = "7.x.x"
+name = "php"
